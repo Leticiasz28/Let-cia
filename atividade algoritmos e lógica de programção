@@ -1,0 +1,45 @@
+#
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int media, valor1, valor2;
+	printf ("digite o primeiro valor:");
+	scanf ("%d", &valor1);
+	
+	printf ("digite o segundo valor:");
+	scanf ("%d", &valor2);
+	
+   	media = (valor1+valor2)/2;
+	printf ("A media dos dois valores digitados e: %d", media);
+
+
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int total, lado1, lado2;
+	printf ("digite o lado1:");
+	scanf ("%d", &lado1);
+	printf ("digite o lado2:");
+	scanf ("%d", &lado2);
+	total = lado1+lado2;
+	printf ("a area do quadrado e: %d", total);
+
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int total, idade;
+	printf ("digite a sua idade");
+	scanf ("%d", &idade);
+	total = idade-2024;
+	printf ("voce nasceu em e %d", total);
+	return 0;
+}
+
+
+
+
+
+	
