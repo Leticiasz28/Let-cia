@@ -8,3 +8,5 @@ int main() {
 	scanf ("%d", &lado2);
 	total = lado1+lado2;
 	printf ("a area do quadrado e: %d", total);
+
+}
